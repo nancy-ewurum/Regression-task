@@ -1,13 +1,13 @@
 # House Price Prediction with Linear Regression
 
 ## Overview
-Using linear regression to develop a model to predict the price of a house
-The aim of this regression analysis is to predict house prices using the relevat features present in the dataset. This analysis would provide insights to real estate developers, house buyers,house sellers etc and enable them to conside the features that could potentially influence the price of a house.<br>
+Using linear regression to develop a model to predict the price of a house.
+The aim of this regression analysis is to predict house prices using the relevat features present in the dataset. This analysis would provide insights to real estate developers, house buyers, house sellers etc. and enable them to conside the features that could potentially influence the price of a house.<br>
 
 In this analysis, we would consider:
 
 - What house feature(s) contributes most to the price of a house?
-- To what extend does each of these feature impact the house price?
+- To what extent does each of these feature impact the house price?
 - How should the results be interpreted in the context of building a house to optimize sale price?
 
 ## Dataset
